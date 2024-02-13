@@ -1,0 +1,19 @@
+-node js install
+-imprt and export
+--node js core and understanding - http
+-npm usage
+-express
+-express generator
+-mongodb
+--intermediate mongodb
+--api development
+--authentication adn authorization
+--error handling
+-middleware
+---session and cookies
+---deployment
+---testing
+---realtime stuff
+
+--node js core advance - fs , os and events
+--mondodb champ (God level stuff)

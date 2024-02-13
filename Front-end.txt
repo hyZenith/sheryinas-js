@@ -1,0 +1,12 @@
+---Sheryians coding school Front end --
+HTML
+HTML5
+Css--basics
+css grid layout
+responsiveness
+Css animations
+js--everything about js
+advance js --god level js
+js animations --Dom Functionality adding interactivity 
+js tasks--mastering practical development challanges
+GSAP,scrollTrigger,Locomotive--Fun stuff
